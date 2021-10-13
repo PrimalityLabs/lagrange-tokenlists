@@ -1,5 +1,5 @@
 {
-  "name": "Avalanche Top 30 Tokens",
+  "name": "AVAX Top 30 Tokens",
   "logoURI": "https://raw.githubusercontent.com/PrimalityLabs/lagrange-tokenlists/main/logos/lagrange-swap.png",
   "keywords": ["avalanche", "defi", "lagrange swap"],
   "version": {
@@ -7,6 +7,7 @@
     "minor": 0,
     "patch": 0
   },
+  "timestamp": "2021-10-13T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 43114,
